@@ -1,0 +1,27 @@
+
+1790959397248 -- OPTIONS -- /api/auth/login/user
+1790959397266 -- POST -- /api/auth/login/user
+1790959426706 -- OPTIONS -- /api/auth/register
+1790959426710 -- POST -- /api/auth/register
+1790959454724 -- OPTIONS -- /api/auth/login/user
+1790959454729 -- POST -- /api/auth/login/user
+1790959454752 -- GET -- /api/events
+1790959454761 -- GET -- /api/events
+1790959462693 -- GET -- /api/registrations/my/6abfdf42fefdd4d1a8a35549
+1790959462701 -- GET -- /api/registrations/my/6abfdf42fefdd4d1a8a35549
+1790959464807 -- GET -- /api/events
+1790959464810 -- GET -- /api/events
+1791097894132 -- OPTIONS -- /api/auth/login/user
+1791097894136 -- POST -- /api/auth/login/user
+1791097894201 -- GET -- /api/events
+1791097894218 -- GET -- /api/events
+1791097905114 -- GET -- /api/registrations/my/6abfdf42fefdd4d1a8a35549
+1791097905158 -- GET -- /api/registrations/my/6abfdf42fefdd4d1a8a35549
+1791097906619 -- GET -- /api/events
+1791097906629 -- GET -- /api/events
+1791097962212 -- OPTIONS -- /api/auth/login/user
+1791097962215 -- POST -- /api/auth/login/user
+1791097962233 -- GET -- /api/events
+1791097962237 -- GET -- /api/events
+1791097981986 -- OPTIONS -- /api/auth/login/user
+1791097981990 -- POST -- /api/auth/login/user
