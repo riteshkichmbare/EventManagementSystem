@@ -9,7 +9,7 @@ function SplashScreen({ onFinish }) {
   return (
     <div className="splash-screen">
       <div className="splash-logo">🎫</div>
-      <h1>Event Manager</h1>
+      <h1>The Event Alchemist</h1>
       <p>Manage and join events easily</p>
     </div>
   );

@@ -1,7 +1,16 @@
 function EventCard({ event, onClick }) {
   return (
     <div className="event-card" onClick={onClick}>
-      <img src={event.cover_image} alt={event.title} />
+      <div className="event-image-wrapper">
+        <img
+          src={event.cover_image}
+          alt={event.title}
+          onError={(e) => {
+            e.currentTarget.style.display = "none";
+          }}
+        />
+      </div>
+
       <div className="event-card-body">
         <span className="category">{event.category}</span>
         <h3>{event.title}</h3>

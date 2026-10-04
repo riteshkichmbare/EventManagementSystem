@@ -6,7 +6,7 @@ async function createAdmin() {
   const email = "admin@event.com";
   const password = "admin123";
 
-  await mongoose.connect(process.env.MONGO_URI || "mongodb://127.0.0.1:27017/UserDB");
+  await mongoose.connect(process.env.MONGO_URI || "mongodb://127.0.0.1:27017/userDb");
   let admin = await AuthUser.findOne({ email });
 
   if (admin) {
